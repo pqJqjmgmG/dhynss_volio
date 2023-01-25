@@ -1,0 +1,52 @@
+.jumbotron {
+  padding-top: 15rem;
+  background-color: #e0e892;
+}
+
+.jumbotron a:hover {
+  color: #ffff;
+}
+
+.about {
+  padding-top: 8rem;
+}
+
+.brands-icon i {
+  font-size: 40px;
+  margin-right: 15px;
+}
+
+.skills {
+  min-height: 65vh;
+}
+
+.skills .container h1 {
+  color: #120f30;
+}
+
+.skills .row .col p {
+  font-size: 12px;
+}
+
+.skills .row .col i {
+  color: #312e6a;
+  font-size: 46px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  min-height: 50vh;
+  background-color: #e0e892;
+}
+
+.footer .row .col a {
+  color: black;
+}
+
+.footer .row .col a:hover {
+  color: #1bbbed;
+}
+
+.copyright {
+  background-color: #949b53;
+}
